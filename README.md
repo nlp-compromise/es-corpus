@@ -3,7 +3,7 @@
 <div align="center">
   <div><b>es-corpus</b></div>
   <img src="https://user-images.githubusercontent.com/399657/68222691-6597f180-ffb9-11e9-8a32-a7f38aa8bded.png"/>
-  <div>lots of weird english text</div>
+  <div>lots of weird spanish text</div>
   <div><code>npm install es-corpus</code></div>
   <div align="center">
     <sub>
